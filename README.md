@@ -82,11 +82,11 @@ tags, deducts ₹10 from the linked balance, and displays the updated balance on
 ---
 
 ##  Repository Structure
-├── main.c           # Main source code
-├── Ckt diagram.png 
-├── block_diagram.png
-├── README.md
-└── LICENSE
+-├── Ckt diagram.png
+-├── LICENSE
+-├── README.md
+-├── block_diagram.png
+-└── main.c
 
 ---
 
